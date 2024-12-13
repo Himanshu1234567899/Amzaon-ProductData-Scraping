@@ -5,6 +5,8 @@ Overview
 
 This project demonstrates how to scrape product details, such as the title and price, from Amazon product pages using Python. The script utilizes requests for fetching webpage content and BeautifulSoup for HTML parsing.
 
+
+
 Features
 
 
@@ -17,6 +19,8 @@ Features
 4.Implements best practices for web scraping in Python.
 
 
+
+
 Technologies Used
 
 
@@ -27,6 +31,8 @@ Technologies Used
 3.BeautifulSoup (for HTML parsing)
 
 4.Jupyter Notebook (for code presentation)
+
+
 
 
 Usage
